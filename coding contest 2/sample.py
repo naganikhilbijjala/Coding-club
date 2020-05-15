@@ -12,3 +12,4 @@ else:
 	if thirsty=="yes":
 		print("drink water")
 		print("drink soda")
+                print("drink beer")
